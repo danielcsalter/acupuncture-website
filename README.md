@@ -1,1 +1,0 @@
-Acupuncture website redesign, involving react and vite.
